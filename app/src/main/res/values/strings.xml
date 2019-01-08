@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morse_Project</string>
+    <string name="button_beginner">Beginner</string>
+    <string name="button_experienced">Experienced</string>
+    <string name="button_Beginner">Beginner</string>
+    <string name="button_send">Send</string>
+    <string name="msg">Enter you message</string>
+    <string name="msg2">While you click the button the sound is playing</string>
+</resources>
